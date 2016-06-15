@@ -1,0 +1,16 @@
+This is a simple ruby program to find the shortest route and distance between two cities in Karnataka. Dijkstra's algorithm is
+applied for finding the shortest path between cities.
+
+Recommended dependencies are follows,
+
+ruby 2.3.1
+rspec 3.4.0
+
+To run the program:
+
+'ruby distance_graph_runner.rb'
+
+To run tests:
+
+'rspec spec graph_spec.rb --format=documentation'
+
